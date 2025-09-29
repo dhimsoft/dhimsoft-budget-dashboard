@@ -1,33 +1,56 @@
-💰 Dhimsoft Budget Tracker
+# 💰 Dhimsoft Budget Tracker
 
-A professional financial tracking app designed to help users manage income, expenses, and savings in real time. Built with Python, SQL, and Streamlit, this project demonstrates my ability to design backend logic, manage databases, and create clean, interactive dashboards.
+A professional financial tracking app designed to help users manage income, expenses, and savings in real time.  
+Built with **Python, SQL, and Streamlit**, this project demonstrates my ability to design backend logic, manage databases, and create clean, interactive dashboards.
 
-🌟 Features
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-📝 Transaction Logging – Add, edit, and delete income/expense records
+---
 
-📊 Category Insights – Visualize spending by category
+## ✨ Features
 
-💰 Budget Reports – Monthly summaries and breakdowns
+- 📝 **Transaction Logging** – Add, edit, and delete income/expense records  
+- 📊 **Category Insights** – Visualize spending by category  
+- 💰 **Budget Reports** – Monthly summaries and breakdowns  
+- 🗄️ **Database Integration** – Persistent storage with SQLite  
+- 📈 **Data Visualization** – Interactive charts using Matplotlib  
 
-🛠️ Database Integration – Persistent storage with SQLite
+---
 
-📈 Data Visualization – Interactive charts using Matplotlib
+## 📸 Screenshots
 
-🖼️ Screenshots
+![Dashboard Overview](assets/screenshots/dashboard.png)  
+![Category Insights](assets/screenshots/category.png)  
+![Monthly Reports](assets/screenshots/reports.png)  
 
-(Insert screenshots of your dashboard, charts, or transaction table here)
+---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Backend: Python, SQLite
+- **Backend**: Python, SQLite  
+- **Frontend / UI**: Streamlit  
+- **Data & Visualization**: Pandas, Matplotlib  
+- **Version Control**: Git/GitHub  
 
-Frontend / UI: Streamlit
+---
 
-Data & Visualization: Pandas, Matplotlib
+## 🔗 Demo & Links
 
-Version Control: Git/GitHub
+- 🌐 **Live Demo**: [Try it on Streamlit](https://your-streamlit-link.streamlit.app)  
+- 📂 **View Repo**: [GitHub Repository](https://github.com/dhimsoft/budget_dashboard)  
 
-🔗 Demo & Links
+---
 
-🌐 Live Demo: Try it on Streamlit
+## 🌍 Connect with Me
+
+- 🌐 Portfolio: [dhimsoft.com](https://dhimsoft.com)  
+- 💼 LinkedIn: [linkedin.com/in/dhimy-jean](https://linkedin.com/in/dhimy-jean)  
+- 🐙 GitHub: [github.com/dhimsoft](https://github.com/dhimsoft)  
+- ✉️ Email: dhimyjean@dhimsoft.com  
+
+---
+
+© 2025 Dhimsoft — Built with ❤️ by Dhimy Jean
