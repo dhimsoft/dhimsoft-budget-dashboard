@@ -22,9 +22,17 @@ Built with **Python, SQL, and Streamlit**, this project demonstrates my ability 
 
 ## 📸 Screenshots
 
-![Dashboard Overview](assets/screenshots/dashboard.png)  
-![Category Insights](assets/screenshots/category.png)  
-![Monthly Reports](assets/screenshots/reports.png)  
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](assets/dashboard.png)
+
+### Category Insights
+![Category Insights](assets/category_insights.png)
+
+### Monthly Reports
+![Monthly Reports](assets/monthly_reports.png)
+ 
 
 ---
 
