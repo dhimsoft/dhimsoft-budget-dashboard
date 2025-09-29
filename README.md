@@ -22,8 +22,6 @@ Built with **Python, SQL, and Streamlit**, this project demonstrates my ability 
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Dashboard Overview
 ![Dashboard](assets/dashboard.png)
 
